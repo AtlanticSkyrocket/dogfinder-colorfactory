@@ -1,0 +1,32 @@
+.DogList-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  padding: 10px;
+}
+
+.DogList-container h3 {
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+}
+
+.DogList-cell {
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: #f0f0f0;
+  box-shadow: 5px 5px 5px #888888;
+}
+
+.DogList-cell img {
+  max-width: 50vw;
+  max-height: 50vh;
+  width: 100px;
+  height: 100px;
+  object-fit: scale-down;
+}

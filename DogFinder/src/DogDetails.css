@@ -1,0 +1,9 @@
+.DogDetails-container {
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: #f0f0f0;
+  box-shadow: 5px 5px 5px #888888;
+}
